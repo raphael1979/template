@@ -1,0 +1,21 @@
+#timer {
+    font-size: 60px;
+    padding-bottom: 20px;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+h1, #hiScores, #konami {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+#start, #hard {
+    font-weight: bold;
+}
+
+#over {
+      font-size: 60px;
+      padding-bottom: 20px;
+      font-family: 'Share Tech Mono', monospace;
+      font-weight: bold;
+      color: red;
+}
